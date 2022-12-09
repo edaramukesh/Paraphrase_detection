@@ -2,7 +2,6 @@ from sentence_transformers import SentenceTransformer
 import numpy as np
 import torch
 
-# sentences = ["How many credits do I have to do","what is the next free period","how to kill pp","how to make rammy thin","how to reduce bajji's over intelligece","How to convince Mukesh that he is god"]
 
 questionsList = ["What are credits?",
 "How many credits do we need to complete in our degree?",
